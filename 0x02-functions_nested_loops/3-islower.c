@@ -1,6 +1,7 @@
 #include "main.h"
 /**
  * _islower - is c lower case
+ * @c: contains value to be compared
  * Return: Always 0.
  */
 int _islower(int c)
