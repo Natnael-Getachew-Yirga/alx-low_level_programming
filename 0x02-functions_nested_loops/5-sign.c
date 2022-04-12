@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _isalpha - is c _isalpha
+ * print_sign - is c _isalpha
  * @n: contains value to be compared
  * Return: Always 0.
  */
